@@ -28,7 +28,7 @@ Quelques fonctionnalitées suplémentaires:
 * Mode Light/Dark
 * Accès direct a la platefrome  [PamTube](https://pamtube.netlify.app)
 
-### Installation:
+## Installation:
 
 Pour installer le programme, téléchargez la dernière version disponible.
 
