@@ -1,7 +1,7 @@
-
 # Pam BackOffice
 
 Pam B.O. est un outils permettant de gérer le téléchargement de média vers le PAM interne (LP SAN 2025)
+![Logo](https://pamtube.netlify.app/Wiki/logo_light.svg)
 
 ## 
 
