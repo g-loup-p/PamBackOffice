@@ -38,3 +38,5 @@ Pour installer le programme, téléchargez la dernière version disponible.
 ▶️ Besoin d'aide sur l'utilisation du logiciel, consultez le [Wiki](https://github.com/g-loup-p/PamBackOffice/wiki)
 
 ▶️ Pour télécharger le programme: https://github.com/g-loup-p/PamBackOffice > Code > Download Zip
+
+Code de Loup GUERIN - LPSAN 25-26
