@@ -36,3 +36,5 @@ Pour installer le programme, téléchargez la dernière version disponible.
 ⚠️ Ce programme à été développé pour la partie interface avec [Flet](https://flet.dev/), l'interface Flet à été développé sous Windows, il n'y a pas eu de test de compatibilité de l'interface pour d'autres systèmes d'exploitation, des bugs pourraient donc surevenir.
 
 ▶️ Besoin d'aide sur l'utilisation du logiciel, consultez le [Wiki](https://github.com/g-loup-p/PamBackOffice/wiki)
+
+▶️ Pour télécharger le programme: https://github.com/g-loup-p/PamBackOffice > Code > Download Zip

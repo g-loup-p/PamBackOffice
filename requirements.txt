@@ -1,0 +1,5 @@
+flet
+requests
+yt-dlp
+boto3
+tqdm

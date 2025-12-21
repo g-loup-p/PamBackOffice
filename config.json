@@ -1,0 +1,6 @@
+{
+    "watch_frequency_seconds": 60,
+    "rss_fetch_limit": 15,
+    "xml_watch_folder": "MEDIA",
+    "rss_channels": []
+}
