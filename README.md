@@ -26,7 +26,7 @@ Quelques fonctionnalitées suplémentaires:
 Pour installer le programme, téléchargez la dernière version disponible.
 
 - Décompressez le fichier Zip
-- Assurez vous d'avoir Python 3.14.2 d'installé sur votre machine et d'avoir la liste des dépendances du programmes 'requerments.txt' installé aussi.
+- Assurez vous d'avoir Python 3.14.2 d'installé sur votre machine et d'avoir la liste des dépendances du programmes 'requirements.txt' installé aussi.
 - Utilisez l'invite de commande, placez vous dans le dossier du programme "PamBackOffice" et executez la commande suivante:
 ```bash
   cd PamBackOffice
