@@ -33,9 +33,11 @@ Quelques fonctionnalitées suplémentaires:
 Pour installer le programme, téléchargez la dernière version disponible.
 
 - Décompressez le fichier Zip
-- Assurez vous d'avoir Python 3.x.x d'installé sur votre machine et d'avoir la liste des dépendances du programmes 'requerments.txt' installé aussi.
+- Assurez vous d'avoir Python 3.14.2 d'installé sur votre machine et d'avoir la liste des dépendances du programmes 'requerments.txt' installé aussi.
 - Utilisez l'invite de commande, placez vous dans le dossier du programme "PamBackOffice" et executez la commande suivante:
 ```bash
   cd PamBackOffice
   python main_ui.py
 ```
+
+⚠️ Ce programme à été développé pour la partie interface avec [Flet](), l'interface Flet à été développé sous Windows, il n'y a pas eu de test de compatibilité de l'interface pour d'autres systèmes d'exploitation, des bugs pourraient donc surevenir.
